@@ -1,0 +1,30 @@
+[
+  {
+    "id": "cs001",
+    "title": "计算机网络",
+    "author": "谢希仁",
+    "year": 2022,
+    "category": "计算机",
+    "tags": ["网络", "TCP/IP", "协议"],
+    "floor": "3",
+    "area": "A区",
+    "shelfCode": "CS-A-12",
+    "inStock": true,
+    "hot": 95,
+    "cover": ""
+  },
+  {
+    "id": "cs002",
+    "title": "操作系统概念",
+    "author": "Abraham Silberschatz",
+    "year": 2021,
+    "category": "计算机",
+    "tags": ["操作系统", "进程", "内存管理"],
+    "floor": "3",
+    "area": "A区",
+    "shelfCode": "CS-A-08",
+    "inStock": false,
+    "hot": 88,
+    "cover": ""
+  }
+]
