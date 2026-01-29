@@ -1,0 +1,15 @@
+{
+  "floors": [
+    {
+      "floor": "3",
+      "areas": [
+        {
+          "name": "A区",
+          "entryHint": "从一楼大厅乘电梯至三楼",
+          "directionHint": "出电梯后直行约30米",
+          "landmark": "在计算机类总索引牌处停下"
+        }
+      ]
+    }
+  ]
+}
